@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://rishablathportfolio.netlify.app](https://rishablathportfolio.netlify.app)
 
-- How to reach me 🤝 **reshablath@gmail.com,9039002468**
+- How to reach me 🤝 **reshablath@gmail.com, 9039002468**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1mmjy84QZgBXR_vs_4B6ev6R_LZAeWvQ8/view?usp=drivesdk](https://drive.google.com/file/d/1mmjy84QZgBXR_vs_4B6ev6R_LZAeWvQ8/view?usp=drivesdk)
 
