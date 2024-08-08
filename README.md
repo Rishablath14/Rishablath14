@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rishab Lath</h1>
 <h3 align="center">A dedicated software development enthusiast with hands-on experience in full-stack development. Proficient in Java, Python, and JavaScript, with a proven track record of developing scalable and efficient web solutions. Skilled in problem-solving, project management, and delivering high-quality applications that meet user needs. Committed to continuous learning and improvement.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishablath14&label=Profile%20views&color=0e75b6&style=flat" alt="rishablath14" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishablath14" alt="rishablath14" /></a> </p>
 
 - 🌱 I’m currently learning **Deveops and AI/ML**
