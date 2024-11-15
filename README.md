@@ -9,7 +9,7 @@
 
 - How to reach me 🤝 **reshablath@gmail.com, 9039002468**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mmjy84QZgBXR_vs_4B6ev6R_LZAeWvQ8/view?usp=drivesdk](https://drive.google.com/file/d/1mmjy84QZgBXR_vs_4B6ev6R_LZAeWvQ8/view?usp=drivesdk)
+- 📄 Know about my experiences [RishabLath_Resume_ASDE.pdf](https://github.com/user-attachments/files/17775223/RishabLath_Resume_ASDE.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
