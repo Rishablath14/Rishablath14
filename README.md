@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Deveops and AI/ML**
 
-- 👨‍💻 All of my projects are available at [https://rishablathportfolio.netlify.app](https://rishablathportfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [https://rishablath.me](https://rishablath.me)
 
 - How to reach me 🤝 **reshablath@gmail.com, 9039002468**
 
